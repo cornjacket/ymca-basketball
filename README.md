@@ -65,12 +65,32 @@ Emphasize defense in **every** practice. Mix individual and team drills.
 - **3-man weave → immediate 2v1**
 - **3v2 help defense** — defense must rotate and help on drives; recover to shooters on the kick-out.
 - **5-man shell drill** — help defense and rotations.
+- **One-foot-in-the-key** — pack-the-paint help drill. Every off-ball defender must
+  keep **one foot inside the key** at all times; only the **on-ball defender** is
+  out guarding the ball. As the offense passes around, defenders shift but stay
+  anchored to the paint — sprint out to contest only when their man gets the ball,
+  then sink a foot back in the key on the next pass. Builds help instincts and
+  paint protection.
 
 ## Shooting Drills
 
 - **Form shooting** — close to the rim, proper mechanics.
 - **Layup lines** — both hands.
-- **Catch-and-shoot** off a pass.
+- **Catch-and-shoot** off a pass — follow the leader; space out for the pass.
+
+## Offense / Spacing Drills
+
+- **5-out spacing** — all five offensive players start around the perimeter (no one
+  in the post), evenly spaced. The rule: **stay away from the ball carrier** — keep
+  good distance so defenders can't help off two players at once. As the ball is
+  passed or dribbled, everyone adjusts to keep the floor spread; if the ball comes
+  toward you, fill the open spot away from it. Teaches kids to spread out instead of
+  bunching around the ball.
+  - *Cut-and-switch (screen-away):* after passing, the passer can **screen away** for
+    a teammate and they switch spots — moving the ball while keeping the floor spaced.
+  - *Switch (down-screen):* **weak-side** players (away from the ball) set a
+    **down-screen** for each other and switch positions, freeing a teammate to pop
+    out to the perimeter.
 
 ## Fun Stuff
 
