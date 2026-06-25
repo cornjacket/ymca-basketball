@@ -9,6 +9,20 @@
 - **Split lines:** instead of one big line, run **small lines** so fewer kids are standing and talking.
 - Make it fun first. This is YMCA ball — build confidence, fundamentals, and a love for the game.
 
+## Stationary Dribbling Routines
+
+Done **in place** — great for beginners to build feel, control, and confidence
+before we add movement. Emphasize **eyes up**, fingertips (not the palm), and a
+strong, low pound. Run each for ~30 seconds, both hands.
+
+- **Pound dribbles** — hard, low dribbles at waist height, right then left.
+- **Crossovers** — bounce the ball back and forth in front, knee height.
+- **Figure 8** — weave the ball between and around the legs in a figure-8.
+- **Around the world** — circle the ball around the waist, then the knees, then the ankles.
+- **Spider dribble** — quick taps front-and-back between the legs with both hands.
+- **Two-ball dribble** — a ball in each hand, pound together, then alternate.
+- **Dribble + count** — dribble while calling out fingers the coach holds up (keeps eyes up).
+
 ## Dribbling Routines
 
 Routines are run **down and back**. Full list of routines in our rotation:
