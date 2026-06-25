@@ -65,12 +65,13 @@ Emphasize defense in **every** practice. Mix individual and team drills.
 - **3-man weave → immediate 2v1**
 - **3v2 help defense** — defense must rotate and help on drives; recover to shooters on the kick-out.
 - **5-man shell drill** — help defense and rotations.
-- **One-foot-in-the-key** — pack-the-paint help drill. Every off-ball defender must
-  keep **one foot inside the key** at all times; only the **on-ball defender** is
-  out guarding the ball. As the offense passes around, defenders shift but stay
-  anchored to the paint — sprint out to contest only when their man gets the ball,
-  then sink a foot back in the key on the next pass. Builds help instincts and
-  paint protection.
+- **Touch-the-key** — pack-the-paint help drill. Builds help instincts and paint
+  protection.
+  - On every pass, each off-ball defender must **go back and touch the key with a
+    foot** before they are free to move around again.
+  - Only the **on-ball defender** stays out guarding the ball.
+  - When their man gets the ball, defenders **sprint out to contest**.
+  - On the next pass, they **drop back to touch the paint** again.
 
 ## Shooting Drills
 
@@ -91,6 +92,11 @@ Emphasize defense in **every** practice. Mix individual and team drills.
   - *Switch (down-screen):* **weak-side** players (away from the ball) set a
     **down-screen** for each other and switch positions, freeing a teammate to pop
     out to the perimeter.
+  - *Crash the boards:* on any **shot**, everyone **except the point guard** crashes
+    for the rebound; the point guard stays back for defensive balance.
+  - *Corner drive-and-kick:* if a **corner** receives the pass, he **drives to the
+    basket** and either **shoots** or **kicks** to the **opposite wing or corner**;
+    then everyone **re-spaces** into 5-out.
 
 ## Fun Stuff
 
