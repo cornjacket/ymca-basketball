@@ -1,0 +1,3 @@
+.project-status-ignore — tells project-status' SessionStart hook this repo is
+deliberately not tracked in the cross-repo rollup. Presence is all that matters;
+delete this file to start being reminded again.
