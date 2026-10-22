@@ -117,6 +117,7 @@ Short scrimmage at the end of practice — apply the concepts emphasized in toda
 
 ## Practices
 
+- [Wednesday 10/21 — 60 min](plans/26-10-21.md)
 - [Wednesday 10/14 — 60 min](plans/26-10-14.md)
 - [Wednesday 10/7 — 60 min](plans/26-10-07.md)
 - [Wednesday 9/30 — 60 min](plans/26-09-30.md)
